@@ -24,4 +24,4 @@ We perform data analysis on the survey to extract key features so as to formulat
 
 ## Recommendation System
 
-This consist of the architecture behind how we decided to recommend healthier options to our target audience. In our architecture, we decided to use Natural Language Processing (NLP) to filter out the food options that are semantically similar.
+This consist of the architecture behind how we decided to recommend healthier options to our target audience. In our architecture, we decided to use **Natural Language Processing (BERT)** to filter out the food options that are semantically similar.
