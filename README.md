@@ -11,8 +11,9 @@ Data Science Techniques:
 2. K-Means Clustering
 3. Feature Extraction
 4. Feature Engineering
-5. Recommender System 
-6. Natural Language Processing (NLP)
+5. Market Basket Analysis
+6. Recommender System 
+7. Natural Language Processing (NLP)
 
 ## Objective of Project
 
