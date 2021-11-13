@@ -52,6 +52,6 @@ The main motivation of this method is so that we provide reasonable substitutes 
 3. Tu Zhehao
 4. Timothy Wong Hoey Pheen
 5. [Ahmad As-Shodiqqul Amin](https://github.com/shodiqqul)
-6. Dione Lim Yee Sze
+6. [Dione Lim Yee Sze](https://github.com/DioneLim)
 7. Kellie Chin Shu Wen
 8. Ni Hui Ling
