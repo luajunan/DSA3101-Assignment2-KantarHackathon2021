@@ -8,3 +8,20 @@ How to run code:
 
 4. The pip install code chunks for the packages required to run the code should be present in the ipynb file. In the event that it is not present, please pip install the necessary packages required.
 
+# Description
+
+## Clustering code
+
+We attempted K-Means Clustering to segment and profile our customers based on their eating habits in order to better formulate our strategies and media plan.
+
+## EDA
+
+This colab attempts to perform preliminary data analysis on our dataset to better understand certain correlation or relationship between prominent features.
+
+## Survey Analysis
+
+We perform data analysis on the survey to extract key features so as to formulate a media plan that could maximise outreach so that our strategies can achieve a larger impact on our target audience.
+
+## Recommendation System
+
+This consist of the architecture behind how we decided to recommend healthier options to our target audience. In our architecture, we decided to use Natural Language Processing (NLP) to filter out the food options that are semantically similar.
